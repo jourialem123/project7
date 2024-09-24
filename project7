@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project7</title>
+        <style>
+            /*I hope you like this page even though it is messy*/
+            /*I made sure to include everything we had in this class*/
+            * {
+    background-color: beige;
+            }
+           #p1 { color: green;}
+           .classy{background-color: aqua;}
+           h2,h5{background-image: url(bbbeeesss.jpg);}
+        </style>
+        <link rel="stylesheet" href="style.css">
+        
+    </head>
+    <body>
+<h1>BEES</h1>
+<h3 style="color: brown;"> Bees are very important in our lives because: </h3>
+<p id="p1">Bees are essential for the health of people and the planet. Honey and other products have medicinal properties, and the
+role of bees as pollinators makes them vital for food supplies.</p>
+<h4 class="classy">How many species of bies are there:</h4>
+<h4>There are around 20,000 known bee species worldwide, and over 4,000 are native to the United States. Humans only manage
+a few of these, and most species are wild.</h4>
+<h2>How much do bees actually help?</h2>
+<h5>Around 75% of crops produce better yields if animals help them pollinate. Of all animals, bees are the most dominant
+pollinators of wild and crop plants. They visit over 90% of the world’s top 107 crops.</h5>
+
+    </body>
+</html>
